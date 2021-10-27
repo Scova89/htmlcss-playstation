@@ -3,7 +3,9 @@
     width: 100%;
 }
 
-
+#jumbo{
+    height: 500px;
+}
 
 
 
@@ -16,4 +18,8 @@
 
 .debug .navbar_inf{
     background-color: grey;
+}
+
+.debug #jumbo{
+    background-color: rgb(255, 155, 205);
 }
