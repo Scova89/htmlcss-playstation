@@ -1,3 +1,8 @@
+.navbar_inf{
+    height: 60px;
+    width: 100%;
+}
+
 
 
 
@@ -9,3 +14,6 @@
 
 /* **** debug **** */
 
+.debug .navbar_inf{
+    background-color: grey;
+}
