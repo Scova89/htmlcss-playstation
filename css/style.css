@@ -4,7 +4,7 @@
 }
 
 #jumbo{
-    height: 500px;
+    height: 400px;
 }
 
 
@@ -22,4 +22,9 @@
 
 .debug #jumbo{
     background-color: rgb(255, 155, 205);
+}
+
+.debug .testo_jumbo{
+    height: 250px;
+    background-color: burlywood;
 }
