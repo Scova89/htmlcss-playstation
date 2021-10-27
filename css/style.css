@@ -16,6 +16,18 @@
 
 /* **** debug **** */
 
+.box{
+    height: 50px;
+    background-color: cornsilk;
+    border: 1px solid black;
+}
+
+.box_jumbo{
+    height: 200px;
+    background-color: cornsilk;
+    border: 1px solid black;
+}
+
 .debug .navbar_inf{
     background-color: grey;
 }
@@ -24,7 +36,7 @@
     background-color: rgb(255, 155, 205);
 }
 
-.debug .testo_jumbo{
+/* .debug .testo_jumbo{
     height: 250px;
     background-color: burlywood;
-}
+} */
