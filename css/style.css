@@ -16,13 +16,13 @@
 
 /* **** debug **** */
 
-.box{
+.debug .box{
     height: 50px;
     background-color: cornsilk;
     border: 1px solid black;
 }
 
-.box_jumbo{
+.debug .box_jumbo{
     height: 200px;
     background-color: cornsilk;
     border: 1px solid black;
@@ -38,5 +38,14 @@
 
 .debug main{
     background-color: lightblue;
-    height: 1000px;
+    height: 2200px;
+}
+
+.debug .nuove_uscite{
+    height: 700px;
+}
+
+.debug .foto_news{
+    background-color: yellow;
+    height: 400px;
 }
