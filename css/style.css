@@ -7,7 +7,9 @@
     height: 400px;
 }
 
-
+.play_now{
+    background-color: blue;
+}
 
 
 
@@ -38,7 +40,7 @@
 
 .debug main{
     background-color: lightblue;
-    height: 2200px;
+    height: 3000px;
 }
 
 .debug .nuove_uscite{
@@ -48,4 +50,9 @@
 .debug .foto_news{
     background-color: yellow;
     height: 400px;
+}
+
+
+.debug .play_now{
+    height: auto;
 }
