@@ -1,6 +1,10 @@
-.navbar_inf{
-    height: 60px;
-    width: 100%;
+
+.nav-item{
+    line-height: 35px;
+}
+
+.chevron{
+    height: 10px;
 }
 
 #jumbo{
