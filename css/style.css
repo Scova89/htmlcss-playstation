@@ -14,6 +14,13 @@
     background-position-x: center;
 }
 
+.foto_news{
+    height: 500px;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position-x: center;
+}
+
 .btn_acquista{
     background-color: rgb(205 61 15);
 }
@@ -61,10 +68,10 @@ footer{
     height: 950px;
 }
 
-.debug .foto_news{
+/* .debug .foto_news{
     background-color: yellow;
     height: 400px;
-}
+} */
 
 
 .debug .play_now{
