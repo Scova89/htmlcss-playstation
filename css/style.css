@@ -9,6 +9,13 @@
 
 #jumbo{
     height: 400px;
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position-x: center;
+}
+
+.btn_acquista{
+    background-color: rgb(205 61 15);
 }
 
 .play_now{
@@ -31,11 +38,11 @@ footer{
     border: 1px solid black;
 }
 
-.debug .box_jumbo{
-    height: 200px;
+/* .debug .box_jumbo{
+    height: 300px;
     background-color: cornsilk;
     border: 1px solid black;
-}
+} */
 
 /* .debug .navbar_inf{
     background-color: grey;
