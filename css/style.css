@@ -32,11 +32,11 @@ footer{
 
 /* **** debug **** */
 
-.debug .box{
+/* .debug .box{
     height: 50px;
     background-color: cornsilk;
     border: 1px solid black;
-}
+} */
 
 /* .debug .box_jumbo{
     height: 300px;
@@ -48,9 +48,9 @@ footer{
     background-color: grey;
 } */
 
-.debug #jumbo{
+/* .debug #jumbo{
     background-color: rgb(255, 155, 205);
-}
+} */
 
 .debug main{
     background-color: lightblue;
