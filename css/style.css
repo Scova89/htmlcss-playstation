@@ -25,6 +25,15 @@
     background-color: rgb(205 61 15);
 }
 
+.esplora_plus{
+    height: auto;
+    background-color: rgb(190 188 187);
+}
+
+.my_btn{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
 .play_now{
     background-color: rgb(26, 26, 134);
 }
@@ -59,10 +68,10 @@ footer{
     background-color: rgb(255, 155, 205);
 } */
 
-.debug main{
+/* .debug main{
     background-color: lightblue;
     height: 2800px;
-}
+} */
 
 /* .debug .nuove_uscite{
     height: 950px;
@@ -74,6 +83,6 @@ footer{
 } */
 
 
-.debug .play_now{
+/* .debug .play_now{
     height: auto;
-}
+} */
