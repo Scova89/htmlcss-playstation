@@ -39,10 +39,14 @@
 }
 
 footer{
-    height: 400px;
-    background-color: blue;
+    padding: 50px 0px;
+    height: auto;
+    background-color: rgb(0 67 156);
 }
 
+.l_globe{
+    height: 20px;
+}
 
 
 
